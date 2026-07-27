@@ -42,7 +42,7 @@
 
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
-| 1️⃣ | 🧩 **EVALUACION** | Realizacion del poster| [Ver EVALUACION ](unidad3_carpeta/Poster_de_resultados_sobre_las_investigaciones_.zip) |
+| 1️⃣ | 🧩 **EVALUACION** | Realizacion del poster| [Ver EVALUACION ](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad3_carpeta/Poster_Dengue_UNL_v3.pdf) |
 </details>
 
  ---
