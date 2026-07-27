@@ -28,11 +28,11 @@
 
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
-| 6️⃣ | 🧩 **APE11** | Aplicación del análisis de varianza (ANOVA) de un factor y pruebas post-hoc de Tukey para comparar medias entre múltiples grupos | [Ver APE 11](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad2/APE_007_Normal%20(2).ipynb) |
-| 7️⃣ | 💻 **APE12** | Implementación de la correlación de Pearson y de la regresión lineal simple (OLS) para analizar la relación entre dos variables y realizar predicciones | [Ver APE 12](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad2/APE_008_TLC%20(3).ipynb) |
-| 8️⃣ | 🧠 **APE13** | Desarrollo de modelos de regresión lineal múltiple y evaluación de la colinealidad entre variables mediante el Factor de Inflación de la Varianza (VIF). | [Ver APE ](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad2/APE_009_Intervalos%20(5).ipynb) |
-| 9️⃣ | ⚙️ **APE14** | Implementación de modelos de regresión logística para clasificación binaria y evaluación del desempeño mediante matrices de confusión. | [Ver APE 14](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad2/APE09_Interferencia_EstadisticaPruebas_deHip%C3%B3tesis_Param%C3%A9tricas_(Z_y_T)_y%20An%C3%A1lisisdel_Valor-p%20(1).ipynb) |
-| 🔟 | ✏️ **APE15** | Evaluación de modelos predictivos mediante curvas ROC, cálculo del área bajo la curva (AUC) y validación cruzada con la técnica K-Fold. | [Ver APE 15](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad2/APE_9_Varianza(ANOVA)%20(1).ipynb) |
+| 6️⃣ | 🧩 **APE11** | Aplicación del análisis de varianza (ANOVA) de un factor y pruebas post-hoc de Tukey para comparar medias entre múltiples grupos | [Ver APE 11](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad3_carpeta/APE_011_InferenciaEstadisticaMultigrupo%20(2).ipynb) |
+| 7️⃣ | 💻 **APE12** | Implementación de la correlación de Pearson y de la regresión lineal simple (OLS) para analizar la relación entre dos variables y realizar predicciones | [Ver APE 12](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad3_carpeta/APE12.ipynb) |
+| 8️⃣ | 🧠 **APE13** | Desarrollo de modelos de regresión lineal múltiple y evaluación de la colinealidad entre variables mediante el Factor de Inflación de la Varianza (VIF). | [Ver APE ](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad3_carpeta/APE_014_Regresion_Multiple_Unidad3.ipynb) |
+| 9️⃣ | ⚙️ **APE14** | Implementación de modelos de regresión logística para clasificación binaria y evaluación del desempeño mediante matrices de confusión. | [Ver APE 14](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad3_carpeta/APE_015_Funci%C3%B3n_Sigmoide_Unidad3.ipynb) |
+| 🔟 | ✏️ **APE15** | Evaluación de modelos predictivos mediante curvas ROC, cálculo del área bajo la curva (AUC) y validación cruzada con la técnica K-Fold. | [Ver APE 15](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/blob/main/unidad3_carpeta/APE_016_ValidacionROC__Unidad3.ipynb) |
 
 </details>
 
@@ -42,7 +42,7 @@
 
 | Nº | Actividad | Descripción | Enlace |
 |----|------------|-------------|--------|
-| 1️⃣ | 🧩 **EVALUACION** | Realizacion del poster| [Ver EVALUACION ](https://github.com/noem20bustan-ui/Portafolio-de-Teor-a-de-la-Distribuci-n-y-Probabilidad-/tree/main/unidad1) |
+| 1️⃣ | 🧩 **EVALUACION** | Realizacion del poster| [Ver EVALUACION ](unidad3_carpeta/Poster_de_resultados_sobre_las_investigaciones_.zip) |
 </details>
 
  ---
